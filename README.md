@@ -1,0 +1,1 @@
+docker exec -ti [CONTAINER_NAME] sh -c "chown -R www-data:www-data wp-content"
